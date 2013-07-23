@@ -1,5 +1,5 @@
-PHP ZMQ BInaries
-=================
+PHP ZMQ Windows Binaries
+========================
 
 Finding ZMQ binaries for PHP on Windows is difficult, the official site doesn't work. So I decided to make a repo of the updated ones I find.
 
