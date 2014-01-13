@@ -1,6 +1,18 @@
 PHP ZMQ Windows Binaries
 ========================
 
+DEPRECATED
+----------
+
+This repository is no longer required. PECL now supports windows extensions fully. To find a list of all extensions go here: http://windows.php.net/downloads/pecl/releases/
+
+ZMQ extensions are here: http://windows.php.net/downloads/pecl/releases/zmq/
+
+All instructions for installation are the same as below.
+
+OLD INSTRUCTIONS
+----------------
+
 Finding ZMQ binaries for PHP on Windows is difficult, the official site doesn't work. So I decided to make a repo of the updated ones I find.
 
 Put the libzmq.dll into your PHP's binary directory.
